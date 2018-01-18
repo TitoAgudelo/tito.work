@@ -1,6 +1,6 @@
 # tito.work
 
-> tito web page 
+> Tito web page
 
 ## Build Setup
 
